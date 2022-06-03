@@ -1,0 +1,26 @@
+{
+  "name": "rg-bug",
+  "version": "1.0.0",
+  "description": "Ripgrep 13 doesn't work",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "log-instance": "^0.2.5"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0",
+    "should": "^11.2.0"
+  },
+  "scripts": {
+    "test": "mocha --inline-diffs"
+  },
+  "repository": {
+    "tag": "git"
+  },
+  "bin": {},
+  "author": "Karl Lew",
+  "homepage": "https://github.com/sc-voice/rg-bug",
+  "license": "MIT"
+}
