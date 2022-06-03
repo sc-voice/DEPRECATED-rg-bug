@@ -1,6 +1,5 @@
 ssl/
 *.wiki
-local/
 archive
 .eslint*
 dist/
